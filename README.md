@@ -9,10 +9,13 @@ In the past, I worked as Head of Product Development for <a href='https://www.re
 ### Connect
 
 <a href="https://www.linkedin.com/in/nsubramanya/">
-  <img align="left" alt="Subramanya N's LinkedIn" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" />
+  <img align="left" alt="Subramanya N's LinkedIn" width="34px" height="34px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/linkedin_original_logo_icon_146435.png" />
 </a> 
 <a href="https://twitter.com/subramanya1997">
-  <img align="left" alt="Subramanya N's Twitter" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-6twitter-4102580_113802.png" />
+  <img align="left" alt="Subramanya N's Twitter" width="40px" height="32px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/twitter_original_logo_icon_146318.png" />
+</a>
+<a href="https://subramanya.ai/blog">
+  <img align="left" alt="Subramanya N's Blogs" width="34px" height="34px" src="https://cdn.icon-icons.com/icons2/560/PNG/512/Blog_icon-icons.com_53707.png" />
 </a>
 <br/>
 
