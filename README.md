@@ -14,7 +14,7 @@ In the past, I worked as Head of Product Development for <a href='https://www.re
 <a href="https://twitter.com/subramanya1997">
   <img align="left" alt="Subramanya N's Twitter" width="40px" height="32px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/twitter_original_logo_icon_146318.png" />
 </a>
-<a href="https://subramanya.ai/blog">
+<a href="https://subramanya.ai">
   <img align="left" alt="Subramanya N's Blogs" width="34px" height="34px" src="https://cdn.icon-icons.com/icons2/560/PNG/512/Blog_icon-icons.com_53707.png" />
 </a>
 <br/>
