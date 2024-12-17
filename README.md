@@ -1,33 +1,18 @@
 ### About
 
-I am a graduate student at UMass Amherst, majoring in Computer Science. Currently I am advised by <a href='https://hcr.cs.umass.edu/people/hzhang'>Prof. Hao Zhang</a> at <a href='https://hcr.cs.umass.edu'>Human Centered Robotics Lab</a>, where I work on intersection of computer vision and natural language for Robotics. Prior to this I was advised by <a href=https://shanemoon.com/>Shane Moon</a>, <a href="https://andreamad8.github.io/">Andrea Madotto</a> of <a href="https://about.meta.com/realitylabs">Meta Reality labs</a> and <a href="https://leejayyoon.github.io/">Jay-Yoon Lee</a> of <a href="https://www.iesl.cs.umass.edu/">IESL</a> in areas of multi-modal video understanding with special focus on ego centric videos.
+I hold an M.S. in Computer Science from the University of Massachusetts Amherst, specializing in Machine Learning. At UMass, I worked with [Prof. Hao Zhang](https://hcr.cs.umass.edu/people/hzhang) at the [Human-Centered Robotics Lab](https://hcr.cs.umass.edu), focusing on Vision-Language Integration to enable robots to reference arbitrary objects. Prior to this, I collaborated with [Shane Moon](https://shanemoon.com/), [Andrea Madotto](https://andreamad8.github.io/) of [Meta Reality Labs](https://about.meta.com/realitylabs) and [Jay-Yoon Lee](https://leejayyoon.github.io/) of [IESL](https://www.iesl.cs.umass.edu/) in areas of multi-modal video understanding with special focus on egocentric videos.
 
-My current interests lie at the intersection of vision and language, and my research focuses on using information from multiple sources such as text, images, and video to improve commonsense reasoning capabilities of machines.
+Currently, I lead cutting-edge initiatives at [Dylog](https://dylog.ai), where I architect state-of-the-art conversational AI and search platforms, leveraging my expertise in machine learning and multi-modal systems. My work focuses on integrating vision and language capabilities to create more intuitive and powerful AI solutions. Concurrently, as a Co-Founder of [NockOut](https://nockout.co), I am driving innovation in sports and fitness management through technology.
 
-In the past, I worked as Head of Product Development for <a href='https://www.renderpub.com'>RenderPub, India</a>, and I have interned at <a href='https://www.vertica.com'>Vertica</a>. During my undergrad at National Institute of Engineering, Mysore, I co-founded Yourkraft a platform to manage and book musicians and Vayam (Non-Profit) a student run trust that aims to empowering people, with equality as the cornerstone and education as the tool in achieving it.
+Previously, I served as Head of Product Development at [RenderPub](https://www.renderpub.com), and completed an internship at [Vertica](https://www.vertica.com). During my undergraduate years at the National Institute of Engineering, Mysore, I co-founded Yourkraft, a platform to streamline musician bookings, and Vayam, a non-profit dedicated to empowering individuals through education and equality. These experiences have shaped my approach to building technology solutions that create meaningful impact.
 
-### Connect
+### Connect me on
 
-<a href="https://www.linkedin.com/in/nsubramanya/">
-  <img align="left" alt="Subramanya N's LinkedIn" width="34px" height="34px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/linkedin_original_logo_icon_146435.png" />
-</a> 
-<a href="https://twitter.com/subramanya1997">
-  <img align="left" alt="Subramanya N's Twitter" width="40px" height="32px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/twitter_original_logo_icon_146318.png" />
-</a>
-<a href="https://subramanya.ai">
-  <img align="left" alt="Subramanya N's Blogs" width="34px" height="34px" src="https://cdn.icon-icons.com/icons2/560/PNG/512/Blog_icon-icons.com_53707.png" />
-</a>
-<br/>
+<a href="https://www.linkedin.com/in/nsubramanya/">LinkedIn</a> | 
+<a href="https://twitter.com/subramanya1997">Twitter</a> | 
+<a href="https://subramanya.ai">Blog</a>
 
 ### GitHub Stats
 
-<table class="center" style="width:100%;">
-  <tr>
-    <td align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=subramanya1997&count_private=true&show_icons=true&theme=onedark&hide_border=true" />
-    </td>
-    <td align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subramanya1997&langs_count=10&layout=compact&theme=onedark&hide_border=true" />
-</td>
-  </tr>
-</table>
+|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subramanya1997&count_private=true&show_icons=true&theme=onedark&hide_border=true)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subramanya1997&langs_count=10&layout=compact&theme=onedark&hide_border=true)|
+|---|---|
