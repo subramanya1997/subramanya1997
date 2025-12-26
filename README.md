@@ -14,8 +14,3 @@ Previously, I served as Head of Product Development at [RenderPub](https://www.r
 <a href="https://twitter.com/subramanya1997">Twitter</a> | 
 <a href="https://subramanya.ai">Blog</a> | 
 <a href="mailto:subramanyanagabhushan@gmail.com">Email</a>
-
-### GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=subramanya1997&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=subramanya1997&theme=tokyonight&hide_border=true)
