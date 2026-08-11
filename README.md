@@ -12,5 +12,5 @@ Previously, I served as Head of Product Development at [RenderPub](https://www.r
 
 <a href="https://www.linkedin.com/in/nsubramanya/">LinkedIn</a> | 
 <a href="https://twitter.com/subramanya1997">Twitter</a> | 
-<a href="https://subramanya.ai">Blog</a> | 
+<a href="https://subramanya.ai">subramanya.ai</a> | 
 <a href="mailto:subramanyanagabhushan@gmail.com">Email</a>
